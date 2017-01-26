@@ -2,7 +2,7 @@
 #ingame
 #######
 
-^#5aa9d6;Changes the Grand Armory club, greataxe, and mace to aim in any direction.^reset;
+^#5aa9d6;Changes the Grand Armory club, greataxe, mace, and greatmace to aim in any direction.^reset;
 
 Inspired by the Melee Aiming mod. This mod is an optional patch that only requires Grand Armory.
 
@@ -12,18 +12,18 @@ For more, click the MEGATHREAD link from the steam page.
 #steam
 ######
 
-[h1]Changes the Grand Armory club, greataxe, and mace to aim in any direction.[/h1]
+[h1]Changes the Grand Armory club, greataxe, mace, and greatmace to aim in any direction.[/h1]
 
 Inspired by the [url=http://steamcommunity.com/sharedfiles/filedetails/?id=817468961]Melee Aiming[/url] mod. This mod is an optional patch that only requires [url=http://steamcommunity.com/sharedfiles/filedetails/?id=836238594]Grand Armory[/url].
 
 [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Alternate downloads can be found on my [url=https://github.com/IsaacHart/sbcom-grandarm-ma/releases/0.1/]github.[/url]
+Alternate downloads can be found on my [url=https://github.com/IsaacHart/sbcom-grandarm-ma/releases/0.2/]github.[/url]
 
 ######
 #forum
 ######
 
-Changes the Grand Armory club, greataxe, and mace to aim in any direction.
+Changes the Grand Armory club, greataxe, mace, and greatmace to aim in any direction.
 
 Inspired by the [community.playstarbound.com/resources/4370/]Melee Aiming[/url] mod. This mod is an optional patch that only requires [url=community.playstarbound.com/resources/4430/]Grand Armory[/url].
 
@@ -37,4 +37,4 @@ PERMISSIONS: granted per license, gplv3, included in download.
 #megathread
 ###########
 
-Grand Armory-Melee Aiming patch (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=837593261']steam[/URL] | [URL='http://community.playstarbound.com/resources//']forum[/URL] | [URL='https://github.com/IsaacHart/sbcom-grandarm-ma/releases']github[/URL] | [URL='https://github.com/IsaacHart/sbcom-grandarm-ma/releases/download/0.1/sbcom-grandarm-ma-0.1.pak']direct[/URL]
+Grand Armory-Melee Aiming patch (0.2) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=837593261']steam[/URL] | [URL='http://community.playstarbound.com/resources//']forum[/URL] | [URL='https://github.com/IsaacHart/sbcom-grandarm-ma/releases']github[/URL] | [URL='https://github.com/IsaacHart/sbcom-grandarm-ma/releases/download/0.2/sbcom-grandarm-ma-0.2.pak']direct[/URL]
